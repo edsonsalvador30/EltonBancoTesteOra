@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><Context>
+    <Resource accessToUnderlyingConnectionAllowed="true" driverClassName="oracle.jdbc.OracleDriver" logAbandoned="true" name="jdbc/main" password="cronappdev" profile="DEV" removeAbandoned="false" removeAbandonedTimeout="60" type="javax.sql.DataSource" url="jdbc:oracle:thin:@oracle.integ.techne.com.br:1521:cronappdev" username="cronappdev"/>
+    <Profile value="DEV"/>
+</Context>
